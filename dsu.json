@@ -4,21 +4,21 @@
          "name":"CorvusOS",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
-         "details":"/sdcard/corvus.img",
-         "uri":"file:///storage/emulated/0/corvus.img"
+         "details":"",
+         "uri":"file:///data/media/0/corvus.img"
       },
       {
-         "name":"CherishOS"
+         "name":"rice"
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
-         "details":"CherishOS 414"
+         "details":"ricedroid"
          "uri":"https://xiaomemeindex.com/treble/Cherish/20220611/CherishOS_v414-arm64-bgS_20220611.img.xz"
       },
       {
          "name":"evo",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
-         "details":"/sdcard/dsu.zip",
+         "details":"",
          "uri":"file:///storage/emulated/0/dsu.zip"
       }
    ]
